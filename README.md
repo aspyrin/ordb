@@ -1,2 +1,2 @@
 # ordb
-Django application based on object relational database
+Django application based on object relational database (postgresql)
